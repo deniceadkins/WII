@@ -11,5 +11,5 @@ DATA:
 * oa-clean.csv is a CSV file containing the OA listings extracted from the larger set of data. 
 
 R SCRIPT
-* 
+* 1495-together-bibliometrix.script.R is the script I used to do several analyses and get the files to work in biblioshiny. It can also serve as a log to summarize my learning process. 
 
